@@ -228,3 +228,32 @@ black-bnt{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.skadiCave img{
+    width: 70vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.iceCave img{
+    width: 40vw;
+    height: 70vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.arco img {
+    width: 30vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
