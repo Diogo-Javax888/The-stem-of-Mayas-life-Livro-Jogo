@@ -59,23 +59,3 @@ var matarFreya = "<div class='imagemtopo'> <img src='/img/'> </div> <h2>Sangue f
 var pouparFreya = "<div class='imagemtopo'> <img src='/img/'> </div> <h2>Benevolência</h2> <p>Percebendo o estado de Freya, Maya percebe que ela já está afundada em amargura e ressentimento, e uma profunda tristeza a consumia. Seu ódio cessa, e pela primeira vez, ela sente pena de Freya. <br><br> - Freya, eu não posso te perdoar, mas também não vou te matar, acho que é isso que você mais deseja por dentro. Ao invés disso, viva com seus próprios demonios e fique longe do meu país. <br><br> Freya abaixa a cabeça, se levanta com as mãos cobrindo suas feridas, e volta a desaparecer pelos corredores do castelo. Maya caminha até a árvore-da-vida, ela não quer retira-la por inteiro, então decide pegar um pequeno broto que crescia a parte e com ele, Maya sai do território de Freya. Retornando a Seth, ela plana o pequeno broto, que logo faz florescer algumas flores ao seu redor. Conforme ele crescer, irá criar mais vida. Os demais deuses reconheceram a grande bondade que Maya teve ao poupar sua maior inimiga e seu povo unanimemente escolhem-na como Rainha de Seth. Porém, com o sangue de seu pai, e a bondade de sua mãe, seu poder se libertou por completo. Agora com asas, ela foi denominada deusa da benevolencia, se torna a nova deusa de Seth.</p><button onclick='carregarConteudo(final)'>Continuar</button>";
 
 var final = "<div class='imagemtopo'> <img src='/img/'> </div> <h2>Obrigado por jogar</h2> <p>Agradecemos por jogar nosso jogo, ainda há mais finais para desbravar.</p><button onclick='carregarConteudo(inicioJornada)'>Continuar</button>";
-
-var elemento = document.getElementById("conteudo");
-
-function carregarConteudo(conteudo) {
-    elemento.innerHTML = conteudo;
-}
-
-function modoEscuro() {
-    var corpo = document.getElementById('corpo');
-    var mudarBotao = document.getElementById('apagavel');
-    corpo.classList.toggle('black');
-    mudarBotao.classList.toggle('black-bnt');
-}
-
-function modobranco () {
-    var corpo = document.getElementById('corpo');
-    corpo.classList.remove('black');
-}   
-
-carregarConteudo(principio);
