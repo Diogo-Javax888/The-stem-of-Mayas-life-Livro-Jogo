@@ -248,9 +248,79 @@ black-bnt{
     margin-bottom: 20px;
 }
 
-.arco img {
+.terrasSkadi img {
     width: 30vw;
     height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.cultoFreia img {
+    width: 30vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.perderTudo img {
+    width: 30vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.meuCaminho img {
+    width: 30vw;
+    height: 90vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.caminhoHefesto img {
+    width: 30vw;
+    height: 90vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.capitalHefesto img {
+    width: 30vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.apostadora img {
+    width: 30vw;
+    height: 60vh;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 10px 0px #000000;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.semRiscos img {
+    width: 30vw;
+    height: 100vh;
     padding: 10px;
     border-radius: 20px;
     box-shadow: 2px 2px 10px 0px #000000;
